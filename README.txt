@@ -8,7 +8,7 @@ Makelangelo is a polargraph mural drawing robot.  It is intended to teach studen
 
 ## Instructions ##
 
-Download the software from https://github.com/mishafarms/Makelangelo  run from the last_official_release And once started make these setting changes.
+Download the software from https://github.com/ideafablabs/Makelangelo  run from the last_official_release And once started make these setting changes.
 Machine settings
 Width 590.0 height 812.0
 paper width These can be set to your paper size. Must be less then machine size
